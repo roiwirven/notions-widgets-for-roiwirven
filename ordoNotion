@@ -1,0 +1,5 @@
+<meta charset="UTF-8">
+<div class="elementor-shortcode"><div id="app"></div>
+<link data-minify="1" rel='stylesheet' id='lpl-ordo-table-dist-css' data-pmdelayedstyle="https://laportelatine.org/wp-content/cache/min/1/wp-content/themes/lpl/dist/ordoListe.css?ver=1696525386" media='all' />
+<script data-minify="1" src='https://laportelatine.org/wp-content/cache/min/1/wp-content/themes/lpl/dist/ordoListe.bundle.js?ver=1696525386' id='lpl-ordo-table-js' defer></script>
+<script type="text/javascript" id="perfmatters-delayed-styles-js">!function(){const e=["keydown","mousemove","wheel","touchmove","touchstart","touchend"];function t(){document.querySelectorAll("link[data-pmdelayedstyle]").forEach(function(e){e.setAttribute("href",e.getAttribute("data-pmdelayedstyle"))}),e.forEach(function(e){window.removeEventListener(e,t,{passive:!0})})}e.forEach(function(e){window.addEventListener(e,t,{passive:!0})})}();</script></body>
